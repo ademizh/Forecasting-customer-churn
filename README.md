@@ -13,7 +13,7 @@ Evaluation Metric
 The models were evaluated using the F1-score metric, which is a harmonic mean of precision and recall. F1-score is particularly useful in imbalanced datasets like customer churn prediction, where the number of churned customers might be significantly lower than non-churned customers.
 
 Results
-The models were trained and fine-tuned using cross-validation techniques to optimize their performance. After experimentation, the best-performing model achieved an F1-score of 89% on the test dataset.
+The models were trained and fine-tuned using cross-validation techniques to optimize their performance. After experimentation, the best-performing model achieved an F1-score of 83% on the test dataset.
 
 Repository Structure
 data/: Contains the dataset used for training and evaluation.
